@@ -1,0 +1,6 @@
+lib/
+.env
+langchain_env/
+include/
+share/
+bin/
